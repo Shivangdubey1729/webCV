@@ -1,0 +1,100 @@
+
+body{
+    
+    background-color:#DDE6ED ;
+    font-family: sans-serif;
+}
+a{
+    font-style: none;
+}
+.bgimg{
+    background-image: url("https://th.bing.com/th/id/R.138037bebda31b4bfc6c18d1e4eddc9f?rik=AcZLabc1XaxhUA&riu=http%3a%2f%2fimages.gofreedownload.net%2fnostalgic-blue-background-hd-pictures-150768.jpg&ehk=JRl3u8bnXLkEjMrd8tzX7iwPt%2feQtmpjwG8pvn3GwGw%3d&risl=&pid=ImgRaw&r=0");
+  
+    padding:50px;
+    height: 70vh;
+    width :100%;
+    font-family: 'Dancing Script', cursive;
+   
+}
+.container{
+    display: flex;
+   flex-direction: column;
+   padding: 50px;
+ }
+ .contact{
+    font-family: 'Archivo Black', sans-serif;
+ }
+footer{
+    background-color: grey;
+}
+
+ .hero{
+    display: flex;
+    justify-content: center;
+}
+.h3{
+    
+    font-size:xx-large;
+    font-weight: 700;
+    font-style: italic;
+    color: #60a5d9;
+    margin: 10px;
+}
+.lead{
+    float: left;
+}
+.profile{
+   float: right;
+}
+p{
+    font-weight: lighter;
+    color: #27374D;
+}
+.profile{
+    float: right;
+ }
+h6{
+    font-size: x-large;
+    padding: 20px;
+    color:#9DB2BF;
+}
+hr{
+   margin-left: 45%;
+   height: 1px;
+   border-style: dotted;
+   border-width: 10px;
+   border-bottom: 0ch;
+   border-color: rgb(2, 7, 57);
+   width: 5%;
+}
+.svg{
+    height: 40px;
+}
+p{
+    padding-left: 30px;
+}
+.programmer{
+    color: #DDE6ED;
+    font-size: 2rem;
+   text-align: center;
+}
+span{
+  text-decoration: underline;
+}
+.svgcontacts{
+    height: 20px;
+    margin:10px;
+}
+.svgcontacts1{
+    height: 25px;
+    margin:10px;
+}
+.shivang{
+    color: #9DB2BF;
+   font-size: 4rem;
+   text-align: center;
+   padding: auto;
+}
+ul{
+    list-style: none;
+}
